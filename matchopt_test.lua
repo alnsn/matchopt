@@ -1,5 +1,3 @@
-#!/usr/bin/env lua
-
 local matchopt = require "matchopt"
 
 local short1 = matchopt.parse { "-v+" }
